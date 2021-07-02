@@ -4,6 +4,7 @@ version = "1.0.0"
 description = "An async wrapper of the Sia Skynet API."
 authors = ["vcokltfre <vcokltfre@gmail.com>"]
 license = "MIT"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
